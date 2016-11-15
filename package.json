@@ -1,0 +1,15 @@
+{
+  "name": "apimaticcalculatorlib",
+  "version": "1.0.0",
+  "description": "Simple calculator API hosted on APIMATIC",
+  "main": "./lib/index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "APIMATIC SDK Generator",
+  "dependencies": {
+    "request": "^2.55.0",
+    "string": "^3.1.1",
+    "mocha": "^3.1.2",
+    "chai": "^3.5.0" 
+  }
+}
